@@ -1,0 +1,13 @@
+.parent {
+    width: 100%
+}
+
+.left {
+    float: left;
+    width: 50%;
+}
+
+.right {
+    float: left;
+    width: 50%;
+}
